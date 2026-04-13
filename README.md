@@ -2,15 +2,16 @@
 
 ## Table of Contents
 
-- [Project Overview](#Project-Overview)
-- [Tools & Technologies](#Tools-&-Technologies)
-- [Dataset](#Dataset)
-- [Data Cleaning (SQL)](#Data-Cleaning-(SQL))
-- [Exploratory Data Analysis (SQL)](#Exploratory-Data-Analysis-(SQL))
-- [Dashboard (Power BI)](#Dashboard-(Power-BI))
-- [Key Insights](#Key-Insights)
-- [How to Use](#How-to-Use)
-- [Learnings](#Learnings)
+- [📌 Project Overview](#📌-Project-Overview)
+- [🛠️ Tools & Technologies](#🛠️-Tools-&-Technologies)
+- [📂 Dataset](#📂-Dataset)
+- [🧹 Data Cleaning (SQL)](#🧹-Data-Cleaning-(SQL))
+- [📊 Exploratory Data Analysis (SQL)](#📊-Exploratory-Data-Analysis-(SQL))
+- [📈Dashboard (Power BI)](#📈-Dashboard-(Power-BI))
+- [🔍 Key Insights](#🔍-Key-Insights)
+- [🚀 How to Use](#🚀-How-to-Use)
+- [💡 Learnings](#💡-Learnings)
+- [📬 Contact](#📬-Contact)
 
 
 ## 📌 Project Overview
@@ -58,7 +59,7 @@ Key analyses performed:
 
 * Total layoffs by company
 * Layoffs by industry, country, and location
-* Year-wise and monthly trends
+* Year wise and monthly trends
 * Companies with 100% layoffs
 * Top companies by layoffs each year (using window functions)
 * Rolling total layoffs over time
@@ -75,7 +76,7 @@ An interactive dashboard was created to visualize:
 * 🔹 Filters for year and industry
 
 ### Dashboard Preview
-[dashboard.jpg](https://github.com/ishwariwankhade25/global-layoffs-eda-sql-power-bi-/blob/b6824e7e341ecb2d77a9a9bb1bd48bc630681594/dashboard.jpg)
+![dashboard.jpg](https://github.com/ishwariwankhade25/global-layoffs-eda-sql-power-bi-/blob/b6824e7e341ecb2d77a9a9bb1bd48bc630681594/dashboard.jpg)
 
 
 ## 🔍 Key Insights
