@@ -16,7 +16,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes global layoffs data using **SQL for data cleaning and exploratory data analysis (EDA)** and **Power BI for interactive dashboard visualization**.
+This project analyzes global layoffs data using **SQL for data cleaning and exploratory data analysis (EDA)** and **Power BI for interactive dashboard visualization**
 
 The goal of this project is to uncover trends, patterns, and key insights about layoffs across companies, industries, and countries.
 
